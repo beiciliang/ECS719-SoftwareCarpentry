@@ -26,13 +26,13 @@ a modern, general-purpose, object-oriented, high-level programming language, whi
 Lectures are presented using [Jupyter Notebook](http://jupyter.org/index.html), which provides a cell-based environment with great interactivity.
 To open these `.ipynb` files and run the cells on your own computer, the following steps are required:
 
-1. Anaconda
+#### 1. Anaconda
 
 - The general recommendation is that you use the Anaconda distribution to install the Jupyter Notebook, 
 and other commonly used packages for scientific computing and data science. 
 Please follow the instructions to [download](https://www.anaconda.com/download/) and [install](https://docs.anaconda.com/anaconda/install/) Anaconda.
 
-2. Git
+#### 2. Git
 
 - For version control, you need to install [git](http://git-scm.com/) and register an account at [Github](https://github.com/).
 
@@ -41,7 +41,7 @@ Please follow the instructions to [download](https://www.anaconda.com/download/)
 git clone https://github.com/beiciliang/ECS719-SoftwareCarpentry.git
 ```
 
-3. Getting Started With Jupyter Notebooks
+#### 3. Getting Started With Jupyter Notebooks
 
 - Launch the Jupyter Notebook from Anaconda Navigator, or run the following command to open up the application:
 ```
