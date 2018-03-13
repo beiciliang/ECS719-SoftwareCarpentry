@@ -28,21 +28,20 @@ To open these `.ipynb` files and run the cells on your own computer, the followi
 
 1. Anaconda
 
-The general recommendation is that you use the Anaconda distribution to install the Jupyter Notebook, 
+- The general recommendation is that you use the Anaconda distribution to install the Jupyter Notebook, 
 and other commonly used packages for scientific computing and data science. 
-
 Please follow the instructions to [download](https://www.anaconda.com/download/) and [install](https://docs.anaconda.com/anaconda/install/) Anaconda.
 
-3. Git
+2. Git
 
 - For version control, you need to install [git](http://git-scm.com/) and register an account at [Github](https://github.com/).
 
-- After installation, you can then download this respository using `git` by running the command line:
+- You can then download this respository using `git`:
 ```
 git clone https://github.com/beiciliang/ECS719-SoftwareCarpentry.git
 ```
 
-4. Getting Started With Jupyter Notebooks
+3. Getting Started With Jupyter Notebooks
 
 - Launch the Jupyter Notebook from Anaconda Navigator, or run the following command to open up the application:
 ```
@@ -51,4 +50,4 @@ jupyter notebook
 
 - Then you'll see the application opening in the web browser on the following address: http://localhost:8888. 
 
-- Navigate to the ECS719-SoftwareCarpentry folder, open a `.ipynb` file and get started!
+- Navigate to the *ECS719-SoftwareCarpentry* folder, open a `.ipynb` file and get started!
