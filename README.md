@@ -24,7 +24,15 @@ a modern, general-purpose, object-oriented, high-level programming language, whi
 ## Requirements
 
 Lectures are presented using [Jupyter Notebook](http://jupyter.org/index.html), which provides a cell-based environment with great interactivity.
-To open these `.ipynb` files and run the cells on your own computer, the following steps are required:
+To open these `.ipynb` files and run the cells, the following steps are required:
+
+### If you are using a EECS-managed desktop (Macs in G2, ITL machines, etc.):
+
+- You don't need to install anything, just make sure you have signed up for GitHub 
+(**Noted** you can use your QMUL email to get the [student developer pack](https://education.github.com) 
+in order to have unlimited free private repositories).
+
+### If you are using your own computer:
 
 #### 1. Anaconda
 
@@ -34,9 +42,9 @@ Please follow the instructions to [download](https://www.anaconda.com/download/)
 
 #### 2. Git
 
-- For version control, you need to install [git](http://git-scm.com/) and register an account at [Github](https://github.com/).
+- For version control, you need to install [git](http://git-scm.com/) and sign up an account at [Github](https://github.com/).
 
-- You can then download this respository using `git`:
+- You can then download this respository as a ZIP or clone it using `git`:
 ```
 git clone https://github.com/beiciliang/ECS719-SoftwareCarpentry.git
 ```
