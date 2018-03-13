@@ -13,7 +13,7 @@ OS | Darwin 15.6.0 x86_64 i386 64bit
 ## Index
 
 * [The UNIX Shell](https://nbviewer.jupyter.org/github/beiciliang/ECS719-SoftwareCarpentry/blob/master/Lecture-1-The-UNIX-Shell.ipynb): 
-use commands to achieve a goal in a terminal session rather than opening multiple applications
+use commands to achieve a goal in a terminal session rather than opening multiple applications.
 
 * [Version Control](https://nbviewer.jupyter.org/github/beiciliang/ECS719-SoftwareCarpentry/blob/master/Lecture-2-Version-Control.ipynb): 
 keep track of changes in the source code, and make it possible for serveral people to collaboratively work on the same code base simultaneously.
