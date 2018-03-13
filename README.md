@@ -32,6 +32,18 @@ To open these `.ipynb` files and run the cells, the following steps are required
 (**Noted** you can use your QMUL email to get the [student developer pack](https://education.github.com) 
 in order to have unlimited free private repositories).
 
+- Clone this repository using the `git` command:
+```
+git clone https://github.com/beiciliang/ECS719-SoftwareCarpentry.git
+```
+
+- Launch the Jupyter Notebook by the following command:
+```
+jupyter notebook
+```
+
+- Navigate to the *ECS719-SoftwareCarpentry* folder, open a `.ipynb` file and get started!
+
 ### If you are using your own computer:
 
 #### 1. Anaconda
