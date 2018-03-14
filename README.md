@@ -12,13 +12,13 @@ OS | Darwin 15.6.0 x86_64 i386 64bit
 
 ## Index
 
-* [The UNIX Shell](https://nbviewer.jupyter.org/github/beiciliang/ECS719-SoftwareCarpentry/blob/master/Lecture-1-The-UNIX-Shell.ipynb): 
+* [The UNIX Shell](http://nbviewer.jupyter.org/github/beiciliang/ECS719-SoftwareCarpentry/blob/master/Lecture-1-The-UNIX-Shell.ipynb?flush_cache=true): 
 use commands to achieve a goal in a terminal session rather than opening multiple applications.
 
-* [Version Control](https://nbviewer.jupyter.org/github/beiciliang/ECS719-SoftwareCarpentry/blob/master/Lecture-2-Version-Control.ipynb): 
+* [Version Control](https://nbviewer.jupyter.org/github/beiciliang/ECS719-SoftwareCarpentry/blob/master/Lecture-2-Version-Control.ipynb?flush_cache=true): 
 keep track of changes in the source code, and make it possible for serveral people to collaboratively work on the same code base simultaneously.
 
-* [Python](https://nbviewer.jupyter.org/github/beiciliang/ECS719-SoftwareCarpentry/blob/master/Lecture-3-Python.ipynb): 
+* [Python](https://nbviewer.jupyter.org/github/beiciliang/ECS719-SoftwareCarpentry/blob/master/Lecture-3-Python.ipynb?flush_cache=true): 
 a modern, general-purpose, object-oriented, high-level programming language, which has a strong position in scientific computing.
 
 ## Requirements
