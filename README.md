@@ -29,7 +29,7 @@ To open these `.ipynb` files and run the cells, the following steps are required
 ### If you are using a EECS-managed desktop (Macs in G2, ITL machines, etc.):
 
 - You don't need to install anything, just make sure you have signed up for GitHub 
-(**Noted** you can use your QMUL email to get the [student developer pack](https://education.github.com) 
+(**Note:** you can use your QMUL email to get the [student developer pack](https://education.github.com) 
 in order to have unlimited free private repositories).
 
 - Clone this repository using the `git` command:
@@ -50,7 +50,7 @@ jupyter notebook
 
 - The general recommendation is that you use the Anaconda distribution to install the Jupyter Notebook, 
 and other commonly used packages for scientific computing and data science. 
-Please follow the instructions to [download](https://www.anaconda.com/download/) and [install](https://docs.anaconda.com/anaconda/install/) Anaconda.
+Please follow the instructions to [download](https://www.anaconda.com/download/) and [install](https://docs.anaconda.com/anaconda/install/) Anaconda (for Python 3.6 Version).
 
 #### 2. Git
 
