@@ -1,8 +1,8 @@
 # ECS719-SoftwareCarpentry
 
-Resources for the software carpentry class of ECS719 Research Method I at Queen Mary University of London.
+Resources for the software carpentry class of ECS719 Research Method I at Queen Mary University of London, Semester B 2018.
 
-They are based on the following softwares and their corresponding versions.
+They are based on the following softwares and their corresponding versions. Created by Beici Liang.
 
 Software | Version
 ------------ | -------------
@@ -16,7 +16,7 @@ OS | Darwin 15.6.0 x86_64 i386 64bit
 use commands to achieve a goal in a terminal session rather than opening multiple applications.
 
 * [Version Control](https://nbviewer.jupyter.org/github/beiciliang/ECS719-SoftwareCarpentry/blob/master/Lecture-2-Version-Control.ipynb?flush_cache=true): 
-keep track of changes in the source code, and make it possible for serveral people to collaboratively work on the same code base simultaneously.
+keep track of changes in the source code, and make it possible for several people to collaboratively work on the same code base simultaneously.
 
 * [Python](https://nbviewer.jupyter.org/github/beiciliang/ECS719-SoftwareCarpentry/blob/master/Lecture-3-Python.ipynb?flush_cache=true): 
 a modern, general-purpose, object-oriented, high-level programming language, which has a strong position in scientific computing.
@@ -27,6 +27,8 @@ Lectures are presented using [Jupyter Notebook](http://jupyter.org/index.html), 
 To open these `.ipynb` files and run the cells, the following steps are required:
 
 ### If you are using a EECS-managed desktop (Macs in G2, ITL machines, etc.):
+
+- For Macs in G2, please login to the demo account. For ITL machines, please login to the Linux.
 
 - You don't need to install anything, just make sure you have signed up for GitHub 
 (**Note:** you can use your QMUL email to get the [student developer pack](https://education.github.com) 
@@ -56,7 +58,7 @@ Please follow the instructions to [download](https://www.anaconda.com/download/)
 
 - For version control, you need to install [git](http://git-scm.com/) and sign up an account at [Github](https://github.com/).
 
-- You can then download this respository as a ZIP or clone it using `git`:
+- You can then download this repository as a ZIP or clone it using `git`:
 ```
 git clone https://github.com/beiciliang/ECS719-SoftwareCarpentry.git
 ```
