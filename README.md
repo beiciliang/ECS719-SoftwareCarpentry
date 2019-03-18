@@ -1,5 +1,13 @@
 # ECS719-SoftwareCarpentry
 
+```
+=========== WARNING==============
+=================================
+This project has now moved to 
+https://github.com/qmul-ecs719p
+=================================
+```
+
 Resources for the software carpentry class of ECS719 Research Method I at Queen Mary University of London, Semester B 2018.
 
 They are based on the following softwares and their corresponding versions. Created by Beici Liang.
